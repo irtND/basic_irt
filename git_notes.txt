@@ -6,3 +6,8 @@ Let's set up a git directory for all my R code, JAGS, and STAN code. Notes for l
 
 git add
 git commit -m  
+
+
+To update, should use
+
+git pull #because git pull fetches and then merges. The local branch will be updated with the "pulled" changes. 
