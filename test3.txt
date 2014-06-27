@@ -1,0 +1,2 @@
+text3, let's see if source tree automatically sees this
+
