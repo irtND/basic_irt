@@ -1,0 +1,8 @@
+Git notes
+
+A repository is a folder that has a .git file in it!
+
+Let's set up a git directory for all my R code, JAGS, and STAN code. Notes for lessons learned as well
+
+git add
+git commit -m  
